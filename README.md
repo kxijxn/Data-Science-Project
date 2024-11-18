@@ -1,3 +1,2 @@
-# Twitter-Mining-Project
+# Data-Science-Project
 
-Using Twitter's API to collect data and information. 
